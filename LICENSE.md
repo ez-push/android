@@ -1,37 +1,35 @@
-# EZPush Closed-Source Software-Lizenz
+# End-User License Agreement (EULA) for EZPush
 
-Die vorliegende Software-Lizenz ("Lizenz") regelt die Nutzung und Verbreitung der Software mit dem Namen "EZPush" (nachfolgend als "Software" bezeichnet). Durch das Herunterladen, Kopieren, Installieren oder anderweitige Verwenden der Software stimmen Sie den Bedingungen dieser Lizenz zu.
+## 1. Introduction
 
-1. Lizenzerteilung
-   1.1. Gewährung der Lizenz: Die Firma addmore mobile GmbH (nachfolgend als "Lizenzgeber" bezeichnet) gewährt Ihnen hiermit eine beschränkte, nicht exklusive, nicht übertragbare Lizenz zur Nutzung der Software zu Ihren internen geschäftlichen oder persönlichen Zwecken gemäß den Bestimmungen dieser Lizenz.
-   1.2. Keine Modifikation: Sie dürfen die Software nicht dekompilieren, disassemblieren, verändern oder anderweitig modifizieren, es sei denn, dies ist ausdrücklich in einer schriftlichen Vereinbarung mit dem Lizenzgeber gestattet.
+This End-User License Agreement ("EULA") is a legal agreement between you, the end-user, and addmore mobile GmbH, Carl-Schurz-Straße 2, 41460 Neuss ("Company"), concerning the software "EZPush". By installing or using EZPush, you agree to be bound by the terms of this EULA.
 
-2. Eigentumsrechte
-   2.1. Urheberrechte: Die Software und alle damit verbundenen Materialien sind durch Urheberrechte und andere Gesetze zum Schutz des geistigen Eigentums geschützt. Der Lizenzgeber behält alle Rechte, Titel und Interessen an der Software.
-   2.2. Marken: Alle Marken, Handelsnamen und Logos, die in der Software enthalten sind, sind Eigentum des Lizenzgebers oder ihrer jeweiligen Inhaber und dürfen ohne vorherige schriftliche Zustimmung nicht verwendet werden.
+## 2. License Grant
 
-3. Beschränkungen
-   3.1. Keine Weitergabe: Sie dürfen die Software oder abgeleitete Werke nicht an Dritte weitergeben, es sei denn, dies ist ausdrücklich in einer schriftlichen Vereinbarung mit dem Lizenzgeber gestattet.
-   3.2. Keine Rückentwicklung: Sie dürfen die Software nicht rückentwickeln, dekompilieren oder disassemblieren.
-   3.3. Haftungsausschluss: Die Software wird "wie sie ist" bereitgestellt, ohne jegliche Gewährleistung, weder ausdrücklich noch stillschweigend.
+The Company hereby grants you a personal, non-exclusive, and non-transferable license to use EZPush. This use is only allowed in conjunction with the subscription.
 
-4. Haftungsbeschränkung
-   In keinem Fall haftet der Lizenzgeber für Schäden, die aus der Nutzung oder Unfähigkeit zur Nutzung der Software resultieren, einschließlich, aber nicht beschränkt auf direkte, indirekte, zufällige oder Folgeschäden.
+## 3. Usage Restrictions
 
-5. Beendigung
-   Diese Lizenz bleibt in Kraft, bis sie von Ihnen oder dem Lizenzgeber beendet wird. Sie können die Lizenz jederzeit beenden, indem Sie die Software löschen und vernichten. Der Lizenzgeber kann die Lizenz aus wichtigem Grund kündigen, wenn Sie gegen die Bestimmungen dieser Lizenz verstoßen.
+You may not:
 
-6. Anwendbares Recht
-   Diese Lizenz unterliegt den Gesetzen von Deutschland. Alle Streitigkeiten im Zusammenhang mit dieser Lizenz unterliegen der ausschließlichen Zuständigkeit der Gerichte von Deutschland.
+- Reverse engineer, decompile, or disassemble EZPush.
+- Copy, distribute, lease, lend, sublicense, or otherwise transfer rights to the software.
+- Use EZPush without an active subscription from the Company.
 
-Diese Lizenz wurde zuletzt aktualisiert am 15. September 2023.
+## 4. Warranty and Limitation of Liability
 
-Für Fragen oder Anfragen im Zusammenhang mit dieser Lizenz wenden Sie sich bitte an:
+The Company warrants for a period of 90 days from the date of purchase that EZPush will function substantially in accordance with its documentation. Should the software exhibit significant errors within this period, your sole remedy and the sole recourse of the Company is either (a) to refund the purchase price or (b) to correct or replace the software at its own discretion.
 
-addmore mobile GmbH  
-Carl-Schurz-Straße 2  
-41460 Neuss  
-  
-E-Mail: info@addmore-mobile.de
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LIABILITY OF THE COMPANY SHALL IN NO EVENT EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE.
 
-© 2023 addmore mobile GmbH. Alle Rechte vorbehalten.
+## 5. Termination
+
+This EULA and the rights granted herein automatically terminate if you breach any of its terms or when your subscription ends. Upon termination, you must destroy all copies of EZPush and all its components.
+
+## 6. General
+
+This EULA represents the complete agreement between you and the Company and supersedes all prior oral or written agreements.
+
+## 7. Governing Law
+
+This EULA is governed by the laws of the Federal Republic of Germany.
